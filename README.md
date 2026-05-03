@@ -6,10 +6,10 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 IT Student (Japan-oriented program)
-- 💼 Backend Developer (Spring Boot / NestJS)
-- 🧠 Interested in Software Architecture & System Design
-- ⚙️ Learning: Microservices • Distributed Systems • DevOps
+- 🎓 IT Student (Japan-oriented program)  
+- 💼 Backend Developer focused on **Spring Boot & NestJS**  
+- 🧠 Interested in **Software Architecture & System Design**  
+- ⚙️ Currently learning **Microservices, Distributed Systems, DevOps**  
 
 ---
 
@@ -19,16 +19,16 @@
 - 🗄 Database: MySQL  
 - 🔧 Tools: Git, Maven  
 - 🌱 Exploring: Python  
-- 🌐 Basic FE: Thymeleaf, React
+- 🌐 Frontend (basic): Thymeleaf, React  
 
 ---
 
-## 🚀 What I'm Doing
+## 🚀 Current Focus
 
 - 🔨 Building backend systems (REST APIs, E-commerce)  
-- ♻️ Refactoring projects with clean architecture mindset  
-- 🧩 Applying SOLID & design patterns  
-- 📚 Learning real-world system design  
+- ♻️ Refactoring projects with **clean architecture mindset**  
+- 🧩 Applying **SOLID principles & design patterns**  
+- 📚 Studying **real-world system design**  
 
 ---
 
@@ -40,7 +40,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nhattan11205/)
 
 </div>
-
 
 ---
 
