@@ -32,6 +32,13 @@
 
 ---
 
+## 🌏 Languages
+
+- 🇯🇵 Japanese: JLPT N3 *(working towards N2)*  
+- 🇬🇧 English: Basic reading (technical docs), aiming for TOEIC  
+
+---
+
 ## 📫 Contact
 
 <div align="center">
@@ -43,9 +50,24 @@
 
 ---
 
+## 📄 Resume
+
+<div align="center">
+
+<a href="./assets/nhattan-cv.pdf">
+  <img src="./assets/cv-preview.gif" width="300"/>
+</a>
+
+<br><br>
+
+[![Download CV](https://img.shields.io/badge/Download%20CV-Resume-blue?style=for-the-badge&logo=readthedocs&logoColor=white)](./assets/TranNhatTan_Resume.pdf)
+
+</div>
+
+---
+
 ## 🎮 Interests
 
-- 🎮 Games (PvP)  
 - 🎧 Music  
 - 📺 Anime  
 - 📚 Japanese & Programming  
